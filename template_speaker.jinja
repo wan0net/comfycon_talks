@@ -1,0 +1,26 @@
+{# template_speaker.jinja #}
+---
+title: {{name}}
+image: "{{image}}"
+description: {{name}}
+social:
+{% if github|length %}
+  - name: github
+    icon: fa-brands fa-github
+    link: https://github.com/{{github}}
+{% endif %}{% if twitter|length %}
+  - name: twitter
+    icon: fa-brands fa-twitter
+    link: https://twitter.com/{{twitter}}
+{% endif %}{% if linkedin|length %}
+  - name: linkedin
+    icon: fa-brands fa-linkedin
+    link: https://linkedin.com/{{linkedin}}
+{% endif %}{% if mastodon|length %}
+  - name: mastodon
+    icon: fab fa-mastodon
+    link: {{mastodon}}
+{% endif %}
+---
+
+{{bio}}
