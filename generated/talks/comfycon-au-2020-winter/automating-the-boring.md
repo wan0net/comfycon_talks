@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Renée 
+author: Renée 
 draft: false
 ---
 Cyber is schmick! It's pretty! It lets me hunt down bad guys and nuke 'em from orbit!

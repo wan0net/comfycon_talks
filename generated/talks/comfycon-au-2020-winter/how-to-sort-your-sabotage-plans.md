@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Kirk Nicholls
+author: Kirk Nicholls
 draft: false
 ---
 There’s a lot of work in maintaining documentation for systems to ensure they are effective for use by someone other than the creator. Many catastrophic incidents in history were caused by a failure to maintain current instructions or reference materials. I’ll talk about ways to handle documentation that has drifted so far apart from their systems that they are either creative lies or functional sabotage instructions.

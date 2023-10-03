@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - George Coldham
+author: George Coldham
 draft: false
 ---
 Do you remember Tamagotchi? Learn about Pwnagotchi your open source, digital pet based on Raspberry Pi Zero W. Don't forget to feed them delicious wifi handshakes as it uses machine learning to understand how to most effectively stuff its face and capture its dinner. Pwnagotchi teaches itself to get better, loves being social and meeting fellow pwnagotchi and best of all doesn't really need any other human input.

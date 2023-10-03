@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Caitlin
+author: Caitlin
 draft: false
 ---
 You can download archives of a lot of your history on social media sites as a result of the GDPR requirements being brought into play.

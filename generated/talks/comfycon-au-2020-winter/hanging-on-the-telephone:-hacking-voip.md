@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Sarah Young
+author: Sarah Young
 draft: false
 ---
 Before security, Sarah spent a decent amount of her career deploying VoIP systems. In this talk, I detail some of the ways that VoIP systems can be hacked and used for nefarious purposes. 

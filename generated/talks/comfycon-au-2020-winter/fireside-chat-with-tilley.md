@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Alex Tilley
+author: Alex Tilley
 draft: false
 ---
 Interesting stories and insights into the world of cybercrime from someone with a unique understanding from a long history.

@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Uday Korlimarla
+author: Uday Korlimarla
 draft: false
 ---
 Today, Speed to market is everything. But speed and security can both be achieved at the same time.

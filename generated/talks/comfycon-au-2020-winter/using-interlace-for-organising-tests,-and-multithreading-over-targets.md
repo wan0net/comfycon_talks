@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Michael Skelton
+author: Michael Skelton
 draft: false
 ---
 A quick primer on how Interlace can be used for "on the fly" pentesting or bug bounty tests over large targets, CIDR or glob ranges as well as useful tricks for how it can be deployed to organise and store the results of tests.

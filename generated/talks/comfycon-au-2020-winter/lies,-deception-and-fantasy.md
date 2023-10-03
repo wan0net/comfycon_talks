@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Sam Crowther
+author: Sam Crowther
 draft: false
 ---
 We, the defenders, play in a highly adversarial game. The game is played in the open and the rules require us to hand our adversaries all the information required to defeat us. In this game, the truth will not set you free. This is a game of lies, deception and fantasy and our adversaries have mastered the art of deceit. They operate with full flexibility, no risk and very little impact.

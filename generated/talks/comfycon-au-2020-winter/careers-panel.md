@@ -4,7 +4,7 @@ meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
 categories: ["ComfyCon AU 2020 Winter"]
-author: - Fabio
+author: Fabio
 draft: false
 ---
 A panel on how to get a career within cyber security.
