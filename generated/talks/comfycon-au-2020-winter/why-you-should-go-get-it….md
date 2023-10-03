@@ -1,5 +1,5 @@
 ---
-title: Why you should go get it…}
+title: Why you should go get it…
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

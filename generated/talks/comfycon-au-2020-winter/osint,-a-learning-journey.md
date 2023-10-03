@@ -1,5 +1,5 @@
 ---
-title: OSINT, A learning journey}
+title: OSINT, A learning journey
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

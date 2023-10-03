@@ -1,5 +1,5 @@
 ---
-title: Good Incident Response; More Than Just Tech Stuff}
+title: Good Incident Response; More Than Just Tech Stuff
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

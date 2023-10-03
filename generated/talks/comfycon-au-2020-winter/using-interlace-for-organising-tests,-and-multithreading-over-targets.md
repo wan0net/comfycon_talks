@@ -1,5 +1,5 @@
 ---
-title: Using Interlace for organising tests, and multithreading over targets}
+title: Using Interlace for organising tests, and multithreading over targets
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

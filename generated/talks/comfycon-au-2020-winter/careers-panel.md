@@ -1,5 +1,5 @@
 ---
-title: Careers Panel}
+title: Careers Panel
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

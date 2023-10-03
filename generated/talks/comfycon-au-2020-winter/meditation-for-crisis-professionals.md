@@ -1,5 +1,5 @@
 ---
-title: Meditation for Crisis Professionals}
+title: Meditation for Crisis Professionals
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

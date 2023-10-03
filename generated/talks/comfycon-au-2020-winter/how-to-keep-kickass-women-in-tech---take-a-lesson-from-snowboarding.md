@@ -1,5 +1,5 @@
 ---
-title: How to keep kickass women in tech - take a lesson from snowboarding}
+title: How to keep kickass women in tech - take a lesson from snowboarding
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

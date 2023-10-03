@@ -1,5 +1,5 @@
 ---
-title: How to Fight a Virus with a Spreadsheet}
+title: How to Fight a Virus with a Spreadsheet
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

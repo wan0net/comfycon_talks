@@ -1,5 +1,5 @@
 ---
-title: The CIA Triad: Staying Sane in Crazy Times}
+title: The CIA Triad: Staying Sane in Crazy Times
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

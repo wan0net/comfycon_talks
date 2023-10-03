@@ -1,5 +1,5 @@
 ---
-title: Automating the Boring}
+title: Automating the Boring
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

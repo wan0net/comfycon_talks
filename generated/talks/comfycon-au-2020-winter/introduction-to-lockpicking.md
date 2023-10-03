@@ -1,5 +1,5 @@
 ---
-title: Introduction to Lockpicking}
+title: Introduction to Lockpicking
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

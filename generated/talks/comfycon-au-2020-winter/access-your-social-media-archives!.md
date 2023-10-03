@@ -1,5 +1,5 @@
 ---
-title: Access your social media archives!}
+title: Access your social media archives!
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

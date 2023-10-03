@@ -1,5 +1,5 @@
 ---
-title: Things to do with a Faraday Cage}
+title: Things to do with a Faraday Cage
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

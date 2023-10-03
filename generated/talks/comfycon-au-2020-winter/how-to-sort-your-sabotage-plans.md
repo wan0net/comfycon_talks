@@ -1,5 +1,5 @@
 ---
-title: How to sort your sabotage plans}
+title: How to sort your sabotage plans
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

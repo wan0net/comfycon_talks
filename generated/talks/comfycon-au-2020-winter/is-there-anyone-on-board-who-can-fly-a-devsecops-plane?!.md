@@ -1,5 +1,5 @@
 ---
-title: Is there anyone on board who can fly a DevSecOps plane?!}
+title: Is there anyone on board who can fly a DevSecOps plane?!
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020

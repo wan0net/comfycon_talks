@@ -1,5 +1,5 @@
 ---
-title: Code that gets you pwn(s|'d)}
+title: Code that gets you pwn(s|'d)
 meta_title: ""
 description: ComfyCon AU 2020 Winter
 date: 4/11/2020
