@@ -5,12 +5,9 @@ image: ""
 description: Uday Korlimarla
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@udaykorlimarla
-
-
+    link: https://twitter.com/udaykorlimarla
 
 ---
 

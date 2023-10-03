@@ -5,12 +5,9 @@ image: ""
 description: Mike Monnik
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@securitymeta_
-
-
+    link: https://twitter.com/securitymeta_
 
 ---
 

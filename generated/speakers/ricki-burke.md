@@ -5,12 +5,9 @@ image: ""
 description: Ricki Burke
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@CyberSecRicki 
-
-
+    link: https://twitter.com/CyberSecRicki 
 
 ---
 

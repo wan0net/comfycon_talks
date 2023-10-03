@@ -5,12 +5,9 @@ image: ""
 description: Casey Ellis
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@caseyjohnellis
-
-
+    link: https://twitter.com/caseyjohnellis
 
 ---
 

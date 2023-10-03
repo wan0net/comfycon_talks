@@ -1,0 +1,18 @@
+---
+title: {{talk_name}}}
+meta_title: ""
+description: {{event}}
+date: {{date}}
+categories: ["{{event}}"]
+author: {% if author2|length %}
+ - {{author_1}}
+ - {{author_2}}
+{%if author_3|length %} - {{author_3}} {% endif %}
+{%if author_4|length %} - {{author_4}} {% endif %}
+{%if author_5|length %} - {{author_5}} {% endif %}
+{% else %}- {{author_1}}{% endif %}
+draft: false
+---
+{{abstract}}
+
+<iframe width="560" height="315" src="{{youtube_link}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

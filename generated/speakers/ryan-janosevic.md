@@ -5,12 +5,9 @@ image: ""
 description: Ryan Janosevic
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@retrospectlabs
-
-
+    link: https://twitter.com/retrospectlabs
 
 ---
 

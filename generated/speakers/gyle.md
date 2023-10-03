@@ -5,12 +5,9 @@ image: ""
 description: Gyle
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@GyledC
-
-
+    link: https://twitter.com/GyledC
 
 ---
 

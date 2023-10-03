@@ -5,12 +5,9 @@ image: ""
 description: @sh3r4_hax
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
     link: https://twitter.com/@sh3r4_hax
-
-
 
 ---
 

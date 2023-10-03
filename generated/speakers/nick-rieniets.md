@@ -5,12 +5,9 @@ image: ""
 description: Nick Rieniets
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@WebsecNick
-
-
+    link: https://twitter.com/WebsecNick
 
 ---
 

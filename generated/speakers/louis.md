@@ -5,12 +5,9 @@ image: ""
 description: Louis
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@snyff
-
-
+    link: https://twitter.com/snyff
 
 ---
 

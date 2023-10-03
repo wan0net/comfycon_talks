@@ -5,12 +5,9 @@ image: ""
 description: Kirk Nicholls
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@goatindex
-
-
+    link: https://twitter.com/goatindex
 
 ---
 

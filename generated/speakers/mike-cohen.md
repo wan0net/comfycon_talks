@@ -5,12 +5,9 @@ image: ""
 description: Mike Cohen
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@velocidex
-
-
+    link: https://twitter.com/velocidex
 
 ---
 

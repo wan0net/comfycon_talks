@@ -5,12 +5,9 @@ image: ""
 description: George Coldham
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@georgecoldham
-
-
+    link: https://twitter.com/georgecoldham
 
 ---
 

@@ -5,12 +5,9 @@ image: ""
 description: Sam Crowther
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@InfoSecSam
-
-
+    link: https://twitter.com/InfoSecSam
 
 ---
 

@@ -5,12 +5,9 @@ image: ""
 description: Andrew Scully
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@andrewscully1
-
-
+    link: https://twitter.com/andrewscully1
 
 ---
 

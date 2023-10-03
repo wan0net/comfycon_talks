@@ -5,12 +5,9 @@ image: ""
 description: Caitlin
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@Caitelatte
-
-
+    link: https://twitter.com/Caitelatte
 
 ---
 

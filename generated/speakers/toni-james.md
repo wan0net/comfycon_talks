@@ -5,12 +5,9 @@ image: ""
 description: Toni James
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@_tonijames
-
-
+    link: https://twitter.com/_tonijames
 
 ---
 

@@ -5,12 +5,9 @@ image: ""
 description: Michael Skelton
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@codingo_
-
-
+    link: https://twitter.com/codingo_
 
 ---
 

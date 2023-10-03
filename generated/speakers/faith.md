@@ -5,12 +5,9 @@ image: ""
 description: Faith
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@farazsth98
-
-
+    link: https://twitter.com/farazsth98
 
 ---
 

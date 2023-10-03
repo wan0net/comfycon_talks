@@ -5,12 +5,9 @@ image: ""
 description: Garth
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@g1schwer
-
-
+    link: https://twitter.com/g1schwer
 
 ---
 

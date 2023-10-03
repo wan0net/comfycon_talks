@@ -5,12 +5,9 @@ image: ""
 description: Sarah Young
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@_sarahyo
-
-
+    link: https://twitter.com/_sarahyo
 
 ---
 

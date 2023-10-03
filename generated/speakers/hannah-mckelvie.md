@@ -5,12 +5,9 @@ image: ""
 description: Hannah McKelvie
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@mckelvie_h
-
-
+    link: https://twitter.com/mckelvie_h
 
 ---
 

@@ -5,12 +5,9 @@ image: ""
 description: @Benzies
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
     link: https://twitter.com/@Benzies
-
-
 
 ---
 

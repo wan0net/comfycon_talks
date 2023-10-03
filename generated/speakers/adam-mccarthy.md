@@ -5,12 +5,9 @@ image: ""
 description: Adam McCarthy
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@a__mccarthy
-
-
+    link: https://twitter.com/a__mccarthy
 
 ---
 

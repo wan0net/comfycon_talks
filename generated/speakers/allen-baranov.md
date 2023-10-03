@@ -5,12 +5,9 @@ image: ""
 description: Allen Baranov
 social:
 
-
   - name: twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/@abaranov
-
-
+    link: https://twitter.com/abaranov
 
 ---
 
