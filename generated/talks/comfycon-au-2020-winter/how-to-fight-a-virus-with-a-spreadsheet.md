@@ -2,9 +2,10 @@
 title: How to Fight a Virus with a Spreadsheet
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11 00:00:00
 categories: ["ComfyCon AU 2020 Winter"]
-author: Allen Baranov
+speakers: Allen Baranov
+
 draft: false
 ---
 Reporting is an important part of Infosec but reports often get ignored. I'll talk through a practical example of a time that I changed the reporting for a large organisation and helped them avoid a potentially catastrophic worm invasion.

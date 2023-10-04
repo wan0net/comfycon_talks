@@ -2,9 +2,10 @@
 title: Meditation for Crisis Professionals
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11 00:00:00
 categories: ["ComfyCon AU 2020 Winter"]
-author: Garth
+speakers: Garth
+
 draft: false
 ---
 For both crisis professionals and professionals in crisis, this session examines the effects of long term stressors, and provides a practical framework on how to manage them. Topics include crowd psychology during disaster events, recognising personal coping mechanisms, cross-cultural contemplation frameworks, and examples of high-stress professionals using said techniques to maintain their "calm within the storm".

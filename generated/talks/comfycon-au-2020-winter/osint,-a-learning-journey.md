@@ -2,9 +2,10 @@
 title: OSINT, A learning journey
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11 00:00:00
 categories: ["ComfyCon AU 2020 Winter"]
-author: Benzies
+speakers: Benzies
+
 draft: false
 ---
 OSINT is any sort of intelligence gained through any publicly available source. It is used for good, malicious, and fun. I want to focus on each of those points briefly, and introduce you all to a community game that we can all get involved in to learn more!

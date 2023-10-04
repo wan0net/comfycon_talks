@@ -2,9 +2,10 @@
 title: Careers Panel
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11 00:00:00
 categories: ["ComfyCon AU 2020 Winter"]
-author: Fabio
+speakers: Fabio
+ speaker_2: Helen 
 draft: false
 ---
 A panel on how to get a career within cyber security.

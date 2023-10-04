@@ -2,9 +2,10 @@
 title: Lies, Deception and Fantasy
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11 00:00:00
 categories: ["ComfyCon AU 2020 Winter"]
-author: Sam Crowther
+speakers: Sam Crowther
+ speaker_2: Nick Rienets 
 draft: false
 ---
 We, the defenders, play in a highly adversarial game. The game is played in the open and the rules require us to hand our adversaries all the information required to defeat us. In this game, the truth will not set you free. This is a game of lies, deception and fantasy and our adversaries have mastered the art of deceit. They operate with full flexibility, no risk and very little impact.

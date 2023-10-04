@@ -2,9 +2,10 @@
 title: Digging Deeper with Velociraptor - DFIR Beast Mode…
 meta_title: ""
 description: ComfyCon AU 2020 Winter
-date: 4/11/2020
+date: 2020-04-11 00:00:00
 categories: ["ComfyCon AU 2020 Winter"]
-author: Mike Cohen
+speakers: Mike Cohen
+
 draft: false
 ---
 The old way of performing in-depth forensic analysis and incident response with your existing tools is clearly not adequate or scalable to many endpoints. Velociraptor, an advanced open source endpoint visibility tool, is the ideal tool for effectively investigating, hunting and monitoring your endpoints with minimal fuss.

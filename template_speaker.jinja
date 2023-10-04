@@ -4,19 +4,19 @@ title: {{name}}
 image: "{{image}}"
 description: {{name}}
 social:
-{% if github|length %}
+{% if github is not none %}
   - name: github
     icon: fa-brands fa-github
     link: https://github.com/{{github}}
-{% endif %}{% if twitter|length %}
+{% endif %}{% if twitter is not none %}
   - name: twitter
     icon: fa-brands fa-twitter
     link: https://twitter.com/{{twitter}}
-{% endif %}{% if linkedin|length %}
+{% endif %}{% if linkedin is not none %}
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://linkedin.com/{{linkedin}}
-{% endif %}{% if mastodon|length %}
+{% endif %}{% if mastodon is not none %}
   - name: mastodon
     icon: fab fa-mastodon
     link: {{mastodon}}
